@@ -1,0 +1,49 @@
+@font-face {
+    font-family: font1;
+    src: url(files1/Involve-VF.ttf);
+}
+body
+{
+    margin: 0;
+}
+.artjom
+{
+
+}
+.background
+{
+    background-image: url(Uus\ Projekt.jpg);
+    height: 1080;
+    width: 1920;
+    background-size: cover;
+    
+}
+.text1
+{
+    color: aliceblue;
+    font-size: 70px;
+    font-family: font1;
+    position: absolute;
+    left: 1000px;
+    top: 50px;
+}
+.text2
+{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: font1;
+    position: absolute;
+    left: 1025px;
+    top: 230px;
+}
+.bg2
+{
+    background-image: url(img1/png\ bg.png);
+    height: 1000;
+    width: 1300;
+    background-size: auto;
+    position: absolute;
+    left: 640px;
+    top: 300px;
+
+}
