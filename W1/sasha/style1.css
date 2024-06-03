@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    max-width: 1920px;
+}
+.poloskaverh {
+    margin-top: 10px;
+    height: 2px;
+    width: auto;
+    background-color: black;
+}
+.poloskaniz {
+    margin-bottom: 10px;
+    height: 2px;
+    width: auto;
+    background-color: black;
+}
+.kartinka1 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 120px;
+}
+.zagolovok1 {
+    width: 850;
+}
